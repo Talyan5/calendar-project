@@ -12,6 +12,9 @@ package com.as.helpers;
 
 import java.util.Scanner;
 
+import com.as.helpers.exceptions.InvalidAcceptableNumberException;
+import com.as.helpers.exceptions.InvalidAcceptableWordException;
+
 /**
  * RequestInput
  *

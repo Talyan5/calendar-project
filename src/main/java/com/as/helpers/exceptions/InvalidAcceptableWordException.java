@@ -8,7 +8,7 @@
  *   
  */
 
-package com.as.helpers;
+package com.as.helpers.exceptions;
 
 /**
  * InvalidAcceptableWordException //ADDD (description of class)
