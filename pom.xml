@@ -5,30 +5,30 @@
 	<artifactId>jogged-hours</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Jogged Hours Application</name>
-	<description>Jogged Hours Application Project</description>
+	<description>Structure which forms a basic starting point for Java Applications.</description>
 
-<dependencies>
-  <dependency>
-   <groupId>org.testng</groupId>
-   <artifactId>testng</artifactId>
-   <version>6.9.10</version>
-  </dependency>
- </dependencies>
+	<dependencies>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.12</version>
+		</dependency>
+	</dependencies>
 
 
-<build>
-   <plugins>
-    <plugin>
-     <groupId>org.apache.maven.plugins</groupId>
-     <artifactId>maven-compiler-plugin</artifactId>
-     <version>3.3</version>
-     <configuration>
-      <source>1.7</source>
-      <target>1.7</target>
-     </configuration>
-    </plugin>
-   </plugins>
-  </build>
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.3</version>
+				<configuration>
+					<source>1.7</source>
+					<target>1.7</target>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
 
 
 
