@@ -1,12 +1,12 @@
-#Basic Project
+#Calendar Project
 
-*Simple Project
+*Application which takes a date from user and adds a specific amount of days to that date.*
 
 **Java 7**
 
-* Java Application
+* Maven
 * Junit
 
-Simple Java Application. 
+Java Application. 
 
-[Anatoliy Starinskiy](http://ebay.com)
+[Anatoliy Starinskiy](https://github.com/Talyan5/calendar-project)

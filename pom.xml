@@ -2,10 +2,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.sqa.as</groupId>
-	<artifactId>jogged-hours</artifactId>
+	<artifactId>Calendar</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Jogged Hours Application</name>
-	<description>Structure which forms a basic starting point for Java Applications.</description>
+	<name>Calendar Application</name>
+	<description>Java Applications which uses Calendar and Date Classes</description>
 
 	<dependencies>
 		<dependency>
